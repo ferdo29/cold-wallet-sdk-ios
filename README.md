@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/tangem?style=flat)](http://twitter.com/tangem)
 
 
-# Welcome to Tangem
+# Welcome
 
 The Tangem card is a self-custodial hardware wallet that works via NFC. The main functions of Tangem cards are to securely create and store a private key and sign data.
 
